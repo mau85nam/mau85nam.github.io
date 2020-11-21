@@ -1,0 +1,1 @@
+cleancss -o all.min.css all.css
